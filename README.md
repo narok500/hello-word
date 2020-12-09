@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi!!
+
+I am here trying to figure out how gitHub works. Wish me luck!
